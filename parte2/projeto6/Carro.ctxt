@@ -1,0 +1,19 @@
+#BlueJ class context
+#Mon Sep 07 11:43:43 BRT 2026
+comment0.target=Carro
+comment1.target=java.lang.String getMarca()
+comment10.params=consumoCombustivel
+comment10.target=void setConsumoCombustivel(double)
+comment2.params=marca
+comment2.target=void setMarca(java.lang.String)
+comment3.target=java.lang.String getModelo()
+comment4.params=modelo
+comment4.target=void setModelo(java.lang.String)
+comment5.target=int getNumPassageiros()
+comment6.params=numPassageiros
+comment6.target=void setNumPassageiros(int)
+comment7.target=double getCapCombustivel()
+comment8.params=capCombustivel
+comment8.target=void setCapCombustivel(double)
+comment9.target=double getConsumoCombustivel()
+numComments=11

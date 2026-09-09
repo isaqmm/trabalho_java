@@ -1,0 +1,10 @@
+#BlueJ class context
+#Mon Sep 07 11:42:16 BRT 2026
+comment0.target=MinhaCalculadora
+comment1.params=num1 num2
+comment1.target=int soma(int, int)
+comment2.params=num1 num2 num3
+comment2.target=int soma(int, int, int)
+comment3.params=num1 num2
+comment3.target=double soma(double, double)
+numComments=4
